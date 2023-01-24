@@ -1,0 +1,11 @@
+
+//String Typecast
+
+static String checkConevrtion(int a)
+ {
+       // your code here
+     String S = String.valueOf(a);
+     return S;
+
+    
+    }
